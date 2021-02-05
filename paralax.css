@@ -1,0 +1,28 @@
+pre, p {
+    font-size: 5em;
+    color: orange;
+    background-color: transparent;
+}
+
+div {
+  background-image: url("image/main.jpg");
+  background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+}
+
+p {
+  background-image: none;
+}
+
+.stars {
+background-image:  url("image/hunter.jpg");
+background-color: transparent;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 950px;
+}
