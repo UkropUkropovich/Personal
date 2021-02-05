@@ -1,0 +1,31 @@
+body{
+  background-color: orange;
+}
+hr {
+  border-style: groove;
+  border-top-style: dashed;
+  border-color: white;
+  border-width: 5px;
+  width: 50%;
+}
+.text1{
+  color:green;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
+
+.text2{
+  color:aqua;
+  font-family: cursive;
+  height: inherit;
+  font-style: normal;
+  font-weight: 600;
+  background-repeat: round;
+  line-height: inherit;
+  font-variant: small-caps;
+}
